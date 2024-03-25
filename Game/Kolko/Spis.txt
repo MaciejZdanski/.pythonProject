@@ -1,0 +1,2 @@
+1. Kolko-i-krzyzyk-1 - gra przy użyciu modułu Turtle
+2. Kolko-i-krzyzyk-2 - pra przy użyciu modułu Tkinter
